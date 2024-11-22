@@ -1,0 +1,12 @@
+[
+  {
+    "data": {
+      "bar": "$root.foo.bar",
+      "tags": [
+        {
+          "tag_name": "$root.foo.tags[].name"
+        }
+      ]
+    }
+  }
+]

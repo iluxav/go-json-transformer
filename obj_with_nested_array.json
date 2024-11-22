@@ -1,0 +1,24 @@
+{
+  "_hits": 1,
+  "_total": 5000,
+  "items": [
+    {
+      "id": "0002ade1-acfd-4a11-9e1b-131d6fd02782",
+      "first_name": "Ashleigh",
+      "last_name": "Herman",
+      "email": "LFkyGCw@LoNQeXS.info",
+      "phone": "184-310-7562",
+      "billing_info": {
+        "address": "Temporibus sunt voluptatem molestiae autem voluptatem.",
+        "city": "soluta",
+        "state": "deserunt",
+        "country": "repellat",
+        "credit_card": {
+          "number": "3548927379447645",
+          "cvv": "JCB"
+        }
+      },
+      "tags": []
+    }
+  ]
+}
