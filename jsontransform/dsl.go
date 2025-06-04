@@ -1,6 +1,6 @@
 package jsontransform
 
-// DSL represents the transformation rules provided by the userdd.....
+// DSL represents the transformation rules provided by the user.....
 type DSL struct {
 	Transformations []Transformation `json:"transformations"`
 	Directive       string           `json:"directive,omitempty"`
